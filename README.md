@@ -20,7 +20,7 @@ Learners can tackle charts them in any order, tackle them partially, spend the w
 
 It's expected that learners will have to:
 
-1. Do a data audit on the country databases, figuring out what all the columns mean (with the help of the [codebook](./codebook)), and how to handle the slightly messy data.
+1. Do a data audit on the country databases, figuring out what all the columns mean (with the help of the [resources](./resources)), and how to handle the slightly messy data.
 2. Retro-engineer the data structures needed to make the Forage charts work, with the help of the [specifications](./specifications).
 3. Construct an appropriate analytical database structure to supply the data, and make it available via a single, poll-able endpoint.
 4. Figure out how to batch- or stream-process data from the application databases into their relevant analytical databases.
