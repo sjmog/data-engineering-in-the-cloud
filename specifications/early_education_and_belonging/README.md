@@ -12,7 +12,7 @@ This chart expects the following sort of data structure:
 
 ```json
 {
-  "dataset": [
+  "datasets": [
     // one of the below object for each country
     {
       "id": "A three-letter country code, uppercased. e.g. GBR",
